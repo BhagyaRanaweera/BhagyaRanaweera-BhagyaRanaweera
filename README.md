@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 
 ## 📫 How to Reach Me
 - Email: [sithubhagya01@gmail.com]
-- LinkedIn: [www.linkedin.com/in/bhagya-ranaweera-17838023b]
+- LinkedIn: [https://www.linkedin.com/in/bhagya-ranaweera-17838023b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOm5CjCHcQjKQKMXqIz2WKQ%3D%3D]
 
 
 ## 🌟 Fun Facts
@@ -39,7 +39,7 @@ I'm open to collaborations on projects related to AI,researches,web development,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/bhagya-ranaweera-17838023b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apsara-handunneththi-aa24b1308www.linkedin.com/in/
+<a href="https://www.linkedin.com/in/bhagya-ranaweera-17838023b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOm5CjCHcQjKQKMXqIz2WKQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apsara-handunneththi-aa24b1308www.linkedin.com/in/
 bhagya-ranaweera-17838023b" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1DBzXp5SfS/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15ggnd3yjo/?mibextid=wwxifr" height="30" width="40" /></a>
 </p>
