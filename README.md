@@ -7,27 +7,27 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 
 ## 🚀 About Me
 - 🎓 **Education:**  Bachelor of Electronic and Computer Science from University of Kelaniya.
-- 💼 **Current Role:** Undergraduate.
-- 💡 **Interests:** AI, Microservices, Embedded Systems, and FullStack Development.
-- 🌱 **Currently Learning:**  Spring Boot, React, PIC Microcontroller.
-- 🎯 **Goals for 2024:** Enhance my skills and contribute to open-source projects.
+- 💼 **Current Role:** Undergraduate(special in computer science)
+- 💡 **Interests:** AI, Microservices and FullStack Development.
+- 🌱 **Currently Learning:**  Spring Boot, React, Artificial Interlligence,Mongodb,Mysql,Java,Python,C,C++,Kotlin.
+- 🎯 **Goals for 2025:** Enhance my skills and contribute to open-source projects.
 
 ## 🛠️ Skills & Tools
 - **Programming Languages:** Java, Python, C, SQL
-- **Frameworks & Libraries:** Spring Boot, Hibernate, React
+- **Frameworks & Libraries:** Spring Boot, Hibernate, React,.NET,Flutter,Tensorflow
 - **Database Technologies:** MySQL, MongoDB
-- **Tools & Platforms:** Git, Docker, XAMPP, Visual Studio Code
-- **Specialized Skills:** Microcontroller Programming, Embedded Systems Design, and AI-based Solutions
+- **Tools & Platforms:** Git, XAMPP, Visual Studio Code,Interllij,Pycharm,Android,Visual studio
+- **Specialized Skills:** AI-based Solutions,Full stack development,Cloud technologies
 
 ## 📝 Projects
-1. **[Product Ordering System](#):** Backend code for managing orders and products with a focus on e-commerce enterprise applications.
+1. **[Product Ordering System](#):** Backend code for managing orders and products with a focus on e-commerce enterprise applications with cloud.
 2. **[AI-Based Expert System for HR Talent Acquisition](#):** An AI-powered solution to streamline hiring processes.
-3. **[Remotely Controllable Capacitor-Type Ceiling Fan Regulator](#):** Development of an innovative fan regulator for energy efficiency.
-4. **[Beauty Cosmetic and Personal Care Website](#):** A stylish website featuring modern web design and functionalities.
+
 
 ## 📫 How to Reach Me
-- Email: [aajhandunneththi@gmail.com]
-- LinkedIn: [linkedin-profile](https://www.linkedin.com/in/apsara-handunneththi-aa24b1308/)
+- Email: [sithubhagya01@gmail.com]
+- LinkedIn: [www.linkedin.com/in/bhagya-ranaweera-17838023b]
+
 
 ## 🌟 Fun Facts
 - I enjoy solving real-world problems through innovative tech solutions.
@@ -35,12 +35,13 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 - I'm always eager to learn and explore new tools and technologies.
 
 ## 🤝 Let's Collaborate
-I'm open to collaborations on projects related to AI, embedded systems, web development, and e-commerce applications. Feel free to connect or check out my repositories to see what I'm working on!
+I'm open to collaborations on projects related to AI,researches,web development, and e-commerce applications. Feel free to connect or check out my repositories to see what I'm working on!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/apsara-handunneththi-aa24b1308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apsara-handunneththi-aa24b1308/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/15ggnd3yjo/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15ggnd3yjo/?mibextid=wwxifr" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/bhagya-ranaweera-17838023b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apsara-handunneththi-aa24b1308www.linkedin.com/in/
+bhagya-ranaweera-17838023b" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1DBzXp5SfS/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15ggnd3yjo/?mibextid=wwxifr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
